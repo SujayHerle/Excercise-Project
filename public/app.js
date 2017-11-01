@@ -61,7 +61,7 @@ var controller = (function(Input){
                   Input.clearFields();
                     var input,newItem;
                     console.log("sds");
-                    // Input field
+                    // Input field  
                     input = Input.getInput();
 
                     if(input.description !== ""){
